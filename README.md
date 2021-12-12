@@ -1,1 +1,0 @@
-# stance-thread-detector
