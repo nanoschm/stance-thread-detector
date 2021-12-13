@@ -1,4 +1,4 @@
-# stance-thread-detector
+ # stance-thread-detector
 
 El dataset y los notebooks (proximamente) provistos en este repositorio, contienen todo lo necesario para reproducir el entrenamiento de un clasificador para resolver el siguiente problema
 
@@ -11,6 +11,7 @@ Dado un par de tweets donde uno es la respuesta inmediata al otro, queremos dete
 
 al tweet inmediato anterior.
 
+El topico de los tweets esta relacionado a la campaña de **vacunacion COVID-19 en la Argentina** en 2021
 ---
 
 The dataset and the code (soon) provided in this repository, contain all the elements needed to train a classifier to solve the following problem:
@@ -24,6 +25,8 @@ Given a tweet and his inmediately preceding tweet, we want to determine if the t
 
 
 the inmediately preceding tweet
+
+The topic choosen for the tweets is the **COVID-19 vaccination campaing in Argentina** on 2021
 
 
 
