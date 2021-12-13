@@ -12,6 +12,7 @@ Dado un par de tweets donde uno es la respuesta inmediata al otro, queremos dete
 al tweet inmediato anterior.
 
 El topico de los tweets esta relacionado a la campaña de **vacunacion COVID-19 en la Argentina** en 2021
+
 ---
 
 The dataset and the code (soon) provided in this repository, contain all the elements needed to train a classifier to solve the following problem:
