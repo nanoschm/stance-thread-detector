@@ -7,6 +7,8 @@ Dado un par de tweets donde uno es la respuesta inmediata al otro, queremos dete
 2. **Ataca**
 3. **Pregunta** por mas información
 4. Hace un **comentario** 
+
+
 al tweet inmediato anterior.
 
 ---
@@ -19,6 +21,8 @@ Given a tweet and his inmediately preceding tweet, we want to determine if the t
 2. **Deny**
 3. **Ask** more information about
 4. Make a **comment** to 
+
+
 the inmediately preceding tweet
 
 
